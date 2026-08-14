@@ -1,0 +1,5 @@
+name,status,cpu
+web1,running,45
+web2,stopped,20
+db1,running,90
+cache1,stopped,10
